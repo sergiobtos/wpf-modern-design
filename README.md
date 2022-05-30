@@ -3,7 +3,7 @@
 
 Project created using WPF App ( .NET Framework).
 
-Applying concepts off RellayCommand, MVVM, INotifyPropertyChanged and Binding.
+Applying concepts of RellayCommand, MVVM, INotifyPropertyChanged and Binding.
 
 
 
